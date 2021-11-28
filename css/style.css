@@ -3,6 +3,11 @@
     height: 320px;
     padding: 10px;
 }
+.mobile-jacket img{
+    width: 250px;
+    height: 250px;
+    padding: 0px;
+}
 .shop img{
     width: 78px;
     height: 82px;
